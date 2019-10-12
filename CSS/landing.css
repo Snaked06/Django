@@ -1,0 +1,34 @@
+body{
+  font-family: 'Montserrat';
+  color: #FDFFFC;
+  text-align: center;
+  background-color: #011627;
+  border: 60px solid #2EC4B6;
+  border-top: 0px;
+    /* border-bottom: 0px; */
+  margin: 0px;
+}
+.MainBox{
+  text-align: center;
+  height: 100%;
+}
+h2{
+  margin-bottom: 5%;
+}
+p{
+  text-align: center;
+  padding:0 100px;
+  margin:17px;
+}
+input {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+#sub{
+  margin-top: 10px;
+  background: orange;
+  color: black;
+  font-size: 1.4em;
+  padding: 30px;
+  border-radius: 25px;
+}
